@@ -13,5 +13,7 @@
 }
 
 #special {
-    
+    font-size:24px;
+    background-color:hsla(120, 40%, 55%, 0.729);
+    font-weight:bold;
 }
