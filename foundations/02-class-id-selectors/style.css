@@ -1,0 +1,17 @@
+.odd {
+    background-color:rgb(213, 140, 140);
+    font-family:Verdana, 'DejaVu Sans' , sans-serif;
+}
+
+.odd.cooler {
+    font-size:24px;
+}
+
+#even {
+    color:#0a0ae0b5;
+    font-size:36px;
+}
+
+#special {
+    
+}
