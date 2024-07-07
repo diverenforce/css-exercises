@@ -10,6 +10,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
 .logo {
@@ -18,7 +19,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 8px;
+  
 }
 
 ul {
@@ -26,7 +27,8 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 8px;
-  padding: 10px;
+  padding: 0;
+  margin: 0;
 }
 
 a {
